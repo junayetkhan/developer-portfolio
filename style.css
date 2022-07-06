@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -32,11 +32,11 @@ a{
     border: none;
     border-radius: 7px;
 }
-#top{
+.top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-#dream{
+.dream{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
