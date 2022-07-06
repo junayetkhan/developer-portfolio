@@ -45,7 +45,7 @@ a{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 0px 50px;
+    padding: 30px 50px;
     box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
 }
@@ -53,4 +53,13 @@ a{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#baby-web-developer{
+    border-left: 10px solid tomato;
+}
+#fullstack-web-developer{
+    border-left: 10px solid blue;
+}
+footer{
+    text-align: center;
 }
